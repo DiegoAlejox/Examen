@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cityparking-a0501": {
+      "hosting": {
+        "Entregable": [
+          "cityparking-a0501"
+        ]
+      }
+    }
+  }
+}
